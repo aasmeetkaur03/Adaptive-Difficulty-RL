@@ -6,5 +6,4 @@ Research project implementing RL-based Dynamic Difficulty Adjustment (DDA).
 - Baselines: static difficulties and rule-based DDA
 - Evaluation: simulated players of varying skill
 
-Code : Google Colab notebooks + Python package
-Paper: Short paper targeting FDG late-breaking / PCG workshop + arXiv preprint
+Code : Google Colab notebooks + Python package | Paper: Short paper targeting FDG late-breaking / PCG workshop + arXiv preprint
