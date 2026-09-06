@@ -1,0 +1,6 @@
+method,mean_recent_win_rate,variance_difficulty_changes,average_episode_length
+PPO,0.602,0.002854367534,300
+Static_0.2,0.66,0.00003233333488,300
+Static_0.5,0.486,0,300
+Static_0.8,0.332,0.00003233335052,300
+RuleBased_DDA,0.516,0.0003510430659,300
